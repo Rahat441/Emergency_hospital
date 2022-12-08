@@ -1,0 +1,11 @@
+Description:
+The goal of the Efficient Ambulance Delivery System is to more efficiently distribute the load of patients across nearby hospitals and emergency medical facilities with sufficient capacity to treat said patients. This will not only decrease the load for medical facilities that may be unable to handle a large influx of patients, but will increase positive outcomes for patients that would have otherwise been left at a facility with longer wait times and/or lacking the necessary equipment or expertise to receive necessary treatment. 
+
+Incentive for use of this product would be to prevent overcrowding and to increase positive patient outcomes. We were motivated to work on this project in order to help solve one aspect of the issue of overcrowding at medical facilities and to induce better outcomes for patients. 
+
+The system is meant to be used by ambulance companies and medical facilities in order to keep the system up to date and with the widest reach possible. The inputs provided by the user would be location of pickup (automatic based on GPS), patient name (if available), patient age, and primary medical emergency type(s) (severe burn, head trauma, syncope, heart attack, etc.) along with any secondary symptoms the patient may be experiencing. The system will process the current location of the emergency vehicle and look at all emergency medical facilities within a certain radius. It will then take into account the type of emergency that has taken place, the specialization of each medical facility (not input by user), and the current occupancy/availability of each medical facility (not input by user). Based on this data, it will calculate the most optimal location to which to take the patient via the most optimal route.
+
+
+
+
+location of pickup (automatic based on GPS), patient name (if available), patient age, and primary medical emergency type(s) (severe burn, head trauma, syncope, heart attack, etc.) along with any secondary symptoms the patient may be experiencing.
